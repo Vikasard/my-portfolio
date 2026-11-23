@@ -1,13 +1,5 @@
 # my-portfolio
-Welcome to my personal portfolio repository! I am a **17-year-old** electronics and robotics enthusiast building across both hardware and software—from quick prototypes to more advanced systems.
+Welcome to my personal portfolio. I am a 17 year old electronics and robotics enthusiast building across both hardware and software.
 
 ## About Me
-
-* **Background:** Learning electronics since **6th grade** and currently pursuing a college degree in electronics.
-* **Core Focus:** Hardware engineering and **robotics**.
-* **Where It Started:** Powered by [Arduino](https://www.arduino.cc/) and my favorite board, the **Arduino Uno**.
-
-## What I Build
-
-* **Hardware & Robotics:** Circuits, sensor integrations, motor control, and embedded builds.
-* **Software & Prototyping:** Code that brings hardware ideas to life, from simple tests to full projects.
+In 6th grade, I began my robotics career by using an Arduino Uno. As I constructed my own robot parts, I had a great time. As this is still my favourite type of board, I have included it at the centre.
